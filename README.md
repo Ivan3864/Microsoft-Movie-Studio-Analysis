@@ -29,9 +29,13 @@ It contains information on movie titles, release dates, production budgets, dome
 ## Visualizations
 This analysis includes three key visualizations to provide a clear understanding of the findings. These visualizations are:
 1. Box Office Performance: A bar chart showing different movies and Worldwide Gross .These movies have resonated with a large audience and have generated significant financial success.
+
 ![Box Office Performance](Visualizations/Box_Office_Performance.png)
+
 2. Production Budget vs. Revenue: A scatter plot illustrating the correlation between production budget and movie revenue.
+
 ![Production Budget vs. Revenue](Visualizations/budget_revenue.png)
+
 3. Release Strategy: A line graph showcasing the optimal timing for movie releases.
 ![Release Strategy](Visualizations/release_strategy.png)
 
