@@ -50,7 +50,7 @@ Based on the analysis conducted, the following conclusions can be drawn:
 5. Language: English has been the dominant language for successful movies.
 
 
-## Reccommendations
+## Recommendations
 Based on the analysis conducted on the movie industry data, here are some recommendations that can be given to Microsoft for their new movie studio:
 
 1. Focus on Popular Genres: Consider producing movies in popular genres such as Action, Drama, Comedy, and Adventure. These genres have consistently shown high demand and have the potential to attract a wide audience.
