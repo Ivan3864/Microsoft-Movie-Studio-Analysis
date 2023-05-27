@@ -1,4 +1,5 @@
 # Movie Studio Analysis - README
+![](Visualizations/READme%20Image.jpg)
 
 ## Overview
 This project aims to provide insights and recommendations for Microsoft's new movie studio. By analyzing industry trends and successful movies, the goal is to assist in making informed decisions regarding movie production, release strategy, and target audience preferences.
